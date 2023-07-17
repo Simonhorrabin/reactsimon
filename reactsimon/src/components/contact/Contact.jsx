@@ -20,7 +20,7 @@ const Contact = () => {
                     </article>
                     <article className="contact__option">
                         <BsInstagram />
-                        <h4>Instgram</h4>
+                        <h4>Instagram</h4>
                         <h5>Simon_horrabin19</h5>
                         <a href="https://www.instagram.com/simon_horrabin19/" target="_blank">Check me out</a>
                     </article>

@@ -14,7 +14,7 @@ const Portfolio = () => {
                         <img src={Desk1} alt="Portfolio Item" />
                         <h3> Dream Catcher </h3>
                         <a href="https://github.com/Simonhorrabin/Dream_Catcher" className='btn' target='_blank'>GitHub</a>  
-                        <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Dribbble</a>
+                        <a href="https://dribbble.com/Simonhorrabin" className='btn btn-primary' target='_blank'>Dribbble</a>
                     </div>
                 </article>
                 <article className='portfolio__item'>
@@ -22,7 +22,7 @@ const Portfolio = () => {
                         <img src={Desk1} alt="Portfolio Item" />
                         <h3> Sip & Scenes </h3>
                         <a href="https://github.com/tigergiangnguyen/sip-and-scenes" className='btn' target='_blank'>GitHub</a>  
-                        <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Dribbble</a>
+                        <a href="https://dribbble.com/Simonhorrabin" className='btn btn-primary' target='_blank'>Dribbble</a>
                     </div>
                 </article>
                 <article className='portfolio__item'>
@@ -30,7 +30,7 @@ const Portfolio = () => {
                         <img src={Desk1} alt="Portfolio Item" />
                         <h3>Fit Checker</h3>
                         <a href="https://github.com/rm2023/fit-checker" className='btn' target='_blank'>GitHub</a>  
-                        <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'>Dribbble</a>
+                        <a href="https://dribbble.com/Simonhorrabin" className='btn btn-primary' target='_blank'>Dribbble</a>
                     </div>
                 </article>
             </div>
