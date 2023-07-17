@@ -11,15 +11,17 @@
 
 :root {
   --color-bg: #1f1f38;
-  --color-bg-variant: #333381;
+  --color-bg-variant: #16161c;
   --color-primary: #000000;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
   --color-white: #323232;
   --color-light: rgba(255, 255, 255, .6);
 
+  --transition: all 400ms ease;
+
   --container-width-lg: 75%;
   --container-width-md: 86%;
-  --container-width-ms: 90%;
+  --container-width-sm: 90%;
 
 }
 
@@ -36,7 +38,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/oceanbackground1.jpeg);
+  background-image: url(../src/assets/sand.png);
 }
 
 /*=======General Styles======*/
@@ -61,11 +63,11 @@ section {
 
 section > h2, section > h5 {
   text-align: center;
-  color: var(--color-light);
+  color: rgb(30, 34, 40);
 }
 
 section > h2 {
-  color: var(--color-primary);
+  color: #6e8593;
   margin-bottom: 3rem;
 }
 
