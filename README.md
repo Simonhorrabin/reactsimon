@@ -41,3 +41,14 @@ This is my personal portfolio website built with React to showcase my projects a
 
    ```bash
    git clone https://github.com/Simonhorrabin/reactsimon
+
+2. npm install   
+
+3. cd reactsimon once you open the file or it will not open properly
+
+4. run npm start
+
+## Deployable Link
+
+https://simonhorrabin.github.io/reactsimon/
+

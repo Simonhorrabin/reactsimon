@@ -1,0 +1,22 @@
+{
+  "name": "reactsimon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://simonhorrabin.github.io/reactsimon/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonhorrabin/reactsimon.git"
+  }
+}
